@@ -1,14 +1,14 @@
-Java_RelationalDB_Application 
+Java_RelationalDB_Application: 
 	A project build by a small team of Software Engineering and Computer Science students at Shippensburg 
-	University for a database class project (CSC371). The applications function is to provide users a graphical
-	interface for interacting with an established MySQL database. The applications main functions are inserting, 
+	University as a database class project (CSC371). The application's function is to provide users a graphical
+	interface for interacting with an established MySQL database. The application's main functions are inserting, 
 	updating, deleting, and viewing data. Moreover, we found it exciting to provide a simple level of security 
 	by password protecting those interactions. Furthermore, we provided classes that allow users the ability 
 	to report bugs and contact technical support by utilizing java_mail/activation API. This project brought to 
 	fruition a semester of relational database creation. 
 
 	TEAM MEMBERS 
-	ADAM STANDK	(Computer Science major)
+	ADAM STANDKE	(Computer Science major)
 	DENNY FLEAGLE	(Software Engineering major)
 	GABRIEL WEBBE	(Software Engineering major)
 
